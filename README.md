@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [Dora Inc](https://dora.run)
+- 🔭 I’m currently working on [Aha Lab, Inc.](https://ahalab.io)
 
-- 🌱 I’m currently learning **clickhouse, chrome extension, gpt automation and Python**
+- 🌱 I’m currently focusing on **computational advetising, multi-agent and data-tracking**
 
 - 📝 I regularly write articles on [https://bertyblog.link](https://bertyblog.link)
 
