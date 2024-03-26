@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Aha Lab, Inc.](https://ahalab.io)
 
-- 🌱 I’m currently focusing on **computational advetising, multi-agent and data-tracking**
+- 🌱 I’m currently focusing on **computational advertising, multi-agent framework and data-tracking**
 
 - 📝 I regularly write articles on [https://bertyblog.link](https://bertyblog.link)
 
