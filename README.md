@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on [Aha Lab, Inc.](https://ahalab.io)
+- 🔭 I’m currently working on [Aha Lab, Inc.](https://ahalab.io), the fastest-growing MarTech company ever!!!
 
-- 🌱 I’m currently focusing on **computational advertising, multi-agent framework and data-tracking**
+- 🌱 I’m currently focusing on **computational advertising, multi-agent framework, information retrive, IaC, GitOps, AWS, FinTech and leadership**
 
-- 📝 I regularly write articles on [https://bertyblog.link](https://bertyblog.link)
+- 📝 I regularly write articles on [https://bertyblog.link](https://bertyblog.link), well, not frequently.🤷‍♂️
 
-- 📫 How to reach me **bertramray2000@gmail.com**
+- 📫 How to reach me **bertramray2000@gmail.com** or **ray@ahalab.ai**
 
 
 <h3 align="left">Languages and Tools:</h3>
