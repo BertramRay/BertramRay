@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BertramRay</h1>
-<h3 align="center">A passionate backend developer from China</h3>
+<h3 align="center">A passionate backend sde from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bertramray&label=Profile%20views&color=0e75b6&style=flat" alt="bertramray" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Aha Lab, Inc.](https://ahalab.io), the fastest-growing MarTech company ever!!!
 
-- 🌱 I’m currently focusing on **computational advertising, multi-agent framework, information retrive, IaC, GitOps, AWS, FinTech and leadership**
+- 🌱 I’m currently focusing on **RecSys, SNS data mining, computational advertising, LLMs**
 
 - 📝 I regularly write articles on [https://bertyblog.link](https://bertyblog.link), well, not frequently.🤷‍♂️
 
