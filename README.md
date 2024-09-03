@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently focusing on **RecSys, SNS data mining, computational advertising, LLMs**
 
-- 📝 I regularly write articles on [https://bertyblog.link](https://bertyblog.link), well, not frequently.🤷‍♂️
+- 📝 I regularly write articles on [https://bertyblog.link](https://bertyblog.link), not frequently indeed.🤷‍♂️
 
-- 📫 How to reach me **bertramray2000@gmail.com** or **ray@ahalab.ai**
+- 📫 How to reach me **bertramray2000@gmail.com** or **ray@ahalab.ai** (We are hiring **Node Backend Developer**!!!(Beijing), hr@ahalab.ai)
 
 
 <h3 align="left">Languages and Tools:</h3>
