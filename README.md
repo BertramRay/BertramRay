@@ -34,28 +34,51 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 🎨 Dynamic Visual Art
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bertramray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertramray&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bertramray&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)](https://git.io/streak-stats)
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║     ██████╗ ███████╗██████╗ ████████╗██████╗  █████╗ ███╗   ███╗        ║
+║     ██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗████╗ ████║        ║
+║     ██████╔╝█████╗  ██████╔╝   ██║   ██████╔╝███████║██╔████╔██║        ║
+║     ██╔══██╗██╔══╝  ██╔══██╗   ██║   ██╔══██╗██╔══██║██║╚██╔╝██║        ║
+║     ██████╔╝███████╗██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║        ║
+║     ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝        ║
+║                                                                           ║
+║              ██████╗  █████╗ ██╗   ██╗                                   ║
+║              ██╔══██╗██╔══██╗╚██╗ ██╔╝                                   ║
+║              ██████╔╝███████║ ╚████╔╝                                    ║
+║              ██╔══██╗██╔══██║  ╚██╔╝                                     ║
+║              ██║  ██║██║  ██║   ██║                                      ║
+║              ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝                                      ║
+║                                                                           ║
+║                    [ Building the Future, One Commit at a Time ]         ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
+### 🏆 GitHub Achievements
+
 <div align="center">
 
-### 🌊 Contribution Graph
+[![trophy](https://github-profile-trophy.vercel.app/?username=bertramray&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![BertramRay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bertramray&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/bertramray)
+</div>
+
+---
+
+### 🌐 3D Contribution Universe
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
