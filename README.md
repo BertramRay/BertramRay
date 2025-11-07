@@ -62,25 +62,6 @@
 
 </div>
 
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bertramray&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 🌐 3D Contribution Universe
-
-<div align="center">
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
 
 ---
 
