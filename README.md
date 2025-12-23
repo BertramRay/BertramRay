@@ -74,11 +74,31 @@
 
 ---
 
-### 🌐 3D Contribution Universe
+### 🐍 Contribution Snake Game
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![Snake animation](https://raw.githubusercontent.com/bertramray/bertramray/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### 💭 Daily Inspiration
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+### 📈 GitHub Metrics & Activity
+
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/bertramray?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&habits=1&followup=1&code=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup.sections=repositories&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FShanghai&config.twemoji=true&config.display=large)
 
 </div>
 
